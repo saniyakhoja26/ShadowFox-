@@ -3,6 +3,7 @@ Task Level: Beginner
 Internship: ShadowFox Python Development
 Name: Saniya Khoja
 Task: Variables
+
 """
 # 1. Create a variable named pi and store the value 22/7
 pi= 22/7
