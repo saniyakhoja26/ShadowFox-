@@ -1,77 +1,55 @@
-# Advanced Level Project – Enhanced Hangman Game  
-**ShadowFox Python Development Internship**
+# Intermediate Level Tasks – ShadowFox Python Development Internship
 
-This project is an **advanced implementation of the classic Hangman game**
-developed using Python as part of the **ShadowFox Python Development Internship**.
-
-The game is designed with modular code, difficulty levels, score tracking,
-file handling, and replay functionality.
+This folder contains **Intermediate Level Python tasks** completed as part of the
+**ShadowFox Python Development Internship**.  
+These tasks focus on applying Python concepts to real-world problems and
+interactive applications.
 
 ---
 
 ## 👩‍💻 Intern Details
 - **Name:** Saniya Khoja  
 - **Internship:** ShadowFox Python Development  
-- **Task Level:** Advanced  
+- **Task Level:** Intermediate  
 
 ---
 
-## 🎯 Project Overview
-The Advanced Hangman Game allows users to:
-- Enter multiple words for gameplay
-- Select difficulty levels
-- Guess letters with visual hangman progress
-- Track scores across games
-- Replay the game multiple times
+## 📚 Tasks Included
 
-The project demonstrates **real-world Python programming practices**.
+### 1. Web Scraper
+- Extracts data from a website using Python
+- Uses external libraries such as `requests` and `BeautifulSoup`
+- Demonstrates HTML parsing and data extraction
+- Shows how Python can be used for real-world data collection
 
----
-
-## ⚙️ Features Implemented
-
-### 🔹 Word Input
-- User decides how many words to enter
-- Words are validated (alphabets only)
-- One word is randomly selected for the game
-
-### 🔹 Difficulty Levels
-- **Easy** – 8 attempts  
-- **Medium** – 6 attempts  
-- **Hard** – 4 attempts  
-
-### 🔹 Classic Hangman Visuals
-- ASCII art used to display hangman stages
-- Each wrong guess adds a body part
-
-### 🔹 Game Logic
-- Correct guesses reveal letters
-- Wrong guesses reduce attempts
-- Game ends on win or full hangman display
-
-### 🔹 Score System
-- Win → 10 points
-- Lose → 0 points
-- Scores saved permanently in `scores.txt`
-
-### 🔹 Replay Option
-- Player can choose to replay after each game
+### 2. Hangman Game
+- A word-guessing game implemented using Python
+- Includes visual progress using underscores
+- Provides hints related to programming
+- Uses loops, conditions, strings, and user input
+- Demonstrates logical thinking and game flow control
 
 ---
 
-## 🛠️ Concepts & Skills Used
-- Functions and modular programming
-- Lists and strings
-- Conditional statements and loops
-- Random module
-- File handling (read/write)
-- Input validation
-- Game logic design
+## 🛠️ Skills & Concepts Used
+- Python standard libraries  
+- External Python libraries  
+- Web scraping fundamentals  
+- Loops and conditional statements  
+- String manipulation  
+- User input handling  
+- Basic game development logic  
 
 ---
 
-## ▶️ How to Run the Project
+## ✅ Outcome
+The intermediate tasks demonstrate:
+- Practical usage of Python in real-world scenarios
+- Improved logical reasoning
+- Ability to build interactive programs
+- Understanding of external libraries and user interaction
 
-1. Navigate to the Advanced Level folder:
-```bash
-cd Advanced_Level
+---
+
+⭐ *This folder represents the transition from beginner concepts to
+real-world Python applications.*
