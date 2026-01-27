@@ -1,55 +1,80 @@
 # Intermediate Level Tasks – ShadowFox Python Development Internship
 
-This folder contains **Intermediate Level Python tasks** completed as part of the
-**ShadowFox Python Development Internship**.  
-These tasks focus on applying Python concepts to real-world problems and
-interactive applications.
+This folder contains **Intermediate Level Python programs** developed as part of the  
+**ShadowFox Python Development Internship**.
+
+These tasks focus on applying Python fundamentals to build interactive programs
+using loops, conditionals, lists, file handling, and basic error handling.
 
 ---
 
 ## 👩‍💻 Intern Details
-- **Name:** Saniya Khoja  
-- **Internship:** ShadowFox Python Development  
-- **Task Level:** Intermediate  
+
+- **Name:** Saniya Khoja
+- **Internship:** ShadowFox Python Development
+- **Task Level:** Intermediate
 
 ---
 
-## 📚 Tasks Included
+## 📂 Tasks Included
 
-### 1. Web Scraper
-- Extracts data from a website using Python
-- Uses external libraries such as `requests` and `BeautifulSoup`
-- Demonstrates HTML parsing and data extraction
-- Shows how Python can be used for real-world data collection
+### 1️⃣ Hangman Game
 
-### 2. Hangman Game
-- A word-guessing game implemented using Python
-- Includes visual progress using underscores
-- Provides hints related to programming
-- Uses loops, conditions, strings, and user input
-- Demonstrates logical thinking and game flow control
+A text-based Hangman game where the player guesses a randomly selected word.
 
----
+**Features:**
 
-## 🛠️ Skills & Concepts Used
-- Python standard libraries  
-- External Python libraries  
-- Web scraping fundamentals  
-- Loops and conditional statements  
-- String manipulation  
-- User input handling  
-- Basic game development logic  
+- Random word selection from a predefined list
+- Text-based hangman figure display
+- Letter-by-letter guessing
+- Input validation
+- Win and loss conditions
+- Play again option after each game
+
+**Concepts Used:**
+
+- Lists
+- Loops (nested loops)
+- Conditional statements
+- String manipulation
+- User input handling
 
 ---
 
-## ✅ Outcome
-The intermediate tasks demonstrate:
-- Practical usage of Python in real-world scenarios
-- Improved logical reasoning
-- Ability to build interactive programs
-- Understanding of external libraries and user interaction
+### 2️⃣ Web Scraper
+
+A simple web scraper that extracts textual data from the **ShadowFox website** using BeautifulSoup.
+
+**Features:**
+
+- Fetches webpage content using HTTP requests
+- Extracts paragraph text from HTML
+- Stores scraped data in a text file
+- Handles basic runtime errors gracefully
+
+**Concepts Used:**
+
+- Requests library
+- BeautifulSoup
+- File handling
+- Exception handling
+- Data extraction
 
 ---
 
-⭐ *This folder represents the transition from beginner concepts to
-real-world Python applications.*
+## 🛠️ Technologies Used
+
+- Python 3.x
+- Requests
+- BeautifulSoup (bs4)
+- VS Code
+
+---
+
+## ▶️ How to Run the Programs
+
+Navigate to the Intermediate Level folder:
+
+```bash
+cd Intermediate_Level2
+```
