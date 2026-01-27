@@ -64,3 +64,5 @@ for category in my_expenses:
 
 print("Highest spending difference category:", difference_category)
 print("Difference amount:", max_difference)
+
+print("\n---------------------------------------\n")
